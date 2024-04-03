@@ -1,4 +1,4 @@
-public class Naresh {
+public class Naresh{
 	public static void main (String[] args){
 		int a,b,c;
 		int a=2;
